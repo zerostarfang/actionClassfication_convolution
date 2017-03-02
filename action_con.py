@@ -1,6 +1,7 @@
-#
-#
-#
+# Simple, end-to-end, LeNe-5-like convolutional actionClassficatin model example.
+# This should achieve a test error of 
+# This procedure run on tensorflow.
+# This version is developing now and can't run well.
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
